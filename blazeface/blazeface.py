@@ -233,6 +233,7 @@ class BlazeFace(nn.Module):
         """Filters out overlapping detections."""
         filtered_detections = []
         for i in range(len(detections)):
+            print(i)
             faces = self._weighted_non_max_suppression(detections[i])
             faces = torch.stack(faces) if len(faces) > 0 else torch.zeros((0, 17), device=self._device())
             filtered_detections.append(faces)
