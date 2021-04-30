@@ -1,0 +1,7 @@
+urls for xception:
+====================
+====================
+Downloading: "http://data.lip6.fr/cadene/pretrainedmodels/xception-43020ad28.pth" to C:\Users\Justin/.cache\torch\checkpoints\xception-43020ad28.pth
+====================
+Downloading: "https://f002.backblazeb2.com/file/icpr2020/Xception_DFDC_bestval-e826cdb64d73ef491e6b8ff8fce0e1e1b7fc1d8e2715bc51a56280fff17596f9.pth" to C:\Users\Justin/.cache\torch\checkpoints\Xception_DFDC_bestval-e826cdb64d73ef491e6b8ff8fce0e1e1b7fc1d8e2715bc51a56280fff17596f9.pth
+<All keys matched successfully>
