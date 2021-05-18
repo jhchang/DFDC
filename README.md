@@ -1,3 +1,12 @@
+The repo of the model that I based my project on can be found here: https://github.com/polimi-ispl/icpr2020dfdc
+
+Notebooks with the title video prediction 6 are the latest version of the prunning models.
+Notebooks with the words result in the title draw graphs to visualize the results.
+
+Below this line is the original readme of the creators of the base model
+
+==================================================================================================================
+
 # Video Face Manipulation Detection Through Ensemble of CNNs
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/video-face-manipulation-detection-through/deepfake-detection-on-dfdc)](https://paperswithcode.com/sota/deepfake-detection-on-dfdc?p=video-face-manipulation-detection-through)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/video-face-manipulation-detection-through/deepfake-detection-on-faceforensics-1)](https://paperswithcode.com/sota/deepfake-detection-on-faceforensics-1?p=video-face-manipulation-detection-through)
